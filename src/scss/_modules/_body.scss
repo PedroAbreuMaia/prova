@@ -1,0 +1,9 @@
+html {
+	scroll-behavior:smooth; //smooth scrolling for anchor links (IE11 not supported)
+
+	body {	
+		direction: ltr;
+		text-rendering: optimizeLegibility;
+		background-color: $body-background-color;
+	}
+}
